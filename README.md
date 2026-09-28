@@ -30,7 +30,9 @@ void loop() {
 
 # Demo
 
-[![LED Blinking Demo](https://www.youtube.com/shorts/6ODHzes-b6w)
+# Demo
+
+[![LED Blinking Demo](https://img.youtube.com/vi/6ODHzes-b6w/0.jpg)](https://www.youtube.com/shorts/6ODHzes-b6w)
 
 
 
